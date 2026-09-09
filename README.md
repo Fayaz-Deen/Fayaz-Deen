@@ -26,13 +26,26 @@ Alongside these, several products are in active development in private repositor
 ## GitHub stats
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Fayaz-Deen&show_icons=true&theme=github_dark&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
-  <img alt="Fayaz-Deen GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Fayaz-Deen&show_icons=true&theme=default&hide_border=true&hide_title=true&include_all_commits=true&count_private=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fayaz-Deen&theme=github_dark&animation=load&duration=2">
+  <img alt="Fayaz-Deen — contribution history and repositories" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Fayaz-Deen&theme=github&animation=load&duration=2">
 </picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-Deen&layout=compact&theme=github_dark&hide_border=true">
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fayaz-Deen&layout=compact&theme=default&hide_border=true">
-</picture>
+
+<table>
+  <tr>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fayaz-Deen&theme=github_dark&animation=load&duration=2">
+        <img alt="Fayaz-Deen — stars, commits, pull requests and issues" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Fayaz-Deen&theme=github&animation=load&duration=2">
+      </picture>
+    </td>
+    <td width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fayaz-Deen&theme=github_dark&animation=load&duration=2">
+        <img alt="Fayaz-Deen — top languages by repository" width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Fayaz-Deen&theme=github&animation=load&duration=2">
+      </picture>
+    </td>
+  </tr>
+</table>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.herokuapp.com/?user=Fayaz-Deen&theme=github-dark-blue&hide_border=true">
