@@ -7,10 +7,92 @@
 <p align="center">
   <a href="https://github.com/Fayaz-Deen"><img alt="GitHub" src="https://img.shields.io/badge/Fayaz--Deen-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="mailto:fayaz30395@gmail.com"><img alt="Email" src="https://img.shields.io/badge/fayaz30395%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white"></a>
+  <a href="#certifications"><img alt="15 Claude Academy badges" src="https://img.shields.io/badge/Claude_Academy-15_badges-D97757?style=flat-square&logo=anthropic&logoColor=white"></a>
   <img alt="Open to work" src="https://img.shields.io/badge/open%20to%20work-10B981?style=flat-square">
 </p>
 
 I'm Fayaz, a software engineer building enterprise platforms end to end — HRMS, CRM and recruitment systems on Spring Boot and Next.js. I own the full stack: data models and APIs, the React/Next.js front end, auth, deployment and the day-two operations that keep a product alive. Lately most of my time goes into AI-assisted engineering: multi-agent workflows, automation pipelines and LLM-driven developer tooling that turn slow, manual parts of a team's process into something a recruiter or an engineer can run in minutes.
+
+## Certifications
+
+<p>
+  <img alt="Claude Academy badges" src="https://img.shields.io/badge/Claude_Academy-15_badges-D97757?style=for-the-badge&logo=anthropic&logoColor=white">
+</p>
+
+15 course completion badges from [Claude Academy](https://academy.claude.com), issued October 2026. Click any badge to verify it on academy.claude.com.
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/103d49608a00229d122fe3fc68c4063e"><img src="certificates/claude-101.png" alt="Claude 101 — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Claude 101</b><br><a href="https://academy.claude.com/verify/103d49608a00229d122fe3fc68c4063e">Verify</a> · <a href="certificates/claude-101.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/8a158c55008ff0671a2f12342e4d03e7"><img src="certificates/claude-code-101.png" alt="Claude Code 101 — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Claude Code 101</b><br><a href="https://academy.claude.com/verify/8a158c55008ff0671a2f12342e4d03e7">Verify</a> · <a href="certificates/claude-code-101.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/af9fbe37099f28ddb119d38103795eb5"><img src="certificates/claude-code-in-action.png" alt="Claude Code in Action — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Claude Code in Action</b><br><a href="https://academy.claude.com/verify/af9fbe37099f28ddb119d38103795eb5">Verify</a> · <a href="certificates/claude-code-in-action.pdf">PDF</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/9e55b0c71a91a1f1ac8d24cfa15ddad7"><img src="certificates/claude-platform-101.png" alt="Claude Platform 101 — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Claude Platform 101</b><br><a href="https://academy.claude.com/verify/9e55b0c71a91a1f1ac8d24cfa15ddad7">Verify</a> · <a href="certificates/claude-platform-101.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/9e9b36165053b2fd601b65e5742eaa7f"><img src="certificates/building-with-the-claude-api.png" alt="Building with the Claude API — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Building with the Claude API</b><br><a href="https://academy.claude.com/verify/9e9b36165053b2fd601b65e5742eaa7f">Verify</a> · <a href="certificates/building-with-the-claude-api.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/7886cb5ec43f578c0962875bab400b9e"><img src="certificates/introduction-to-model-context-protocol.png" alt="Introduction to Model Context Protocol — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Introduction to Model Context Protocol</b><br><a href="https://academy.claude.com/verify/7886cb5ec43f578c0962875bab400b9e">Verify</a> · <a href="certificates/introduction-to-model-context-protocol.pdf">PDF</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/09d794bb3226e64a36c71c9d59aeba1b"><img src="certificates/model-context-protocol-advanced-topics.png" alt="MCP: Advanced Topics — Claude Academy badge" width="100%"></a><br>
+      <sub><b>MCP: Advanced Topics</b><br><a href="https://academy.claude.com/verify/09d794bb3226e64a36c71c9d59aeba1b">Verify</a> · <a href="certificates/model-context-protocol-advanced-topics.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/d39be68c74e615a6b43fe0737ed48b17"><img src="certificates/building-effective-human-agent-teams.png" alt="Building Effective Human-Agent Teams — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Building Effective Human-Agent Teams</b><br><a href="https://academy.claude.com/verify/d39be68c74e615a6b43fe0737ed48b17">Verify</a> · <a href="certificates/building-effective-human-agent-teams.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/baf6e09588237a7115b30a312c4b0b85"><img src="certificates/deploying-claude-enterprise-with-confidence.png" alt="Deploying Claude Enterprise with Confidence — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Deploying Claude Enterprise with Confidence</b><br><a href="https://academy.claude.com/verify/baf6e09588237a7115b30a312c4b0b85">Verify</a> · <a href="certificates/deploying-claude-enterprise-with-confidence.pdf">PDF</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/a2156a08dd63946d7ff19c9785a8eb55"><img src="certificates/claude-with-google-cloud-s-vertex-ai.png" alt="Claude with Google Cloud's Vertex AI — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Claude with Google Cloud's Vertex AI</b><br><a href="https://academy.claude.com/verify/a2156a08dd63946d7ff19c9785a8eb55">Verify</a> · <a href="certificates/claude-with-google-cloud-s-vertex-ai.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/bfe2ba4e1c5b3ff649fcf4c4f4359626"><img src="certificates/introduction-to-claude-cowork.png" alt="Introduction to Claude Cowork — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Introduction to Claude Cowork</b><br><a href="https://academy.claude.com/verify/bfe2ba4e1c5b3ff649fcf4c4f4359626">Verify</a> · <a href="certificates/introduction-to-claude-cowork.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/f30164fb4f6d4c93d8daa7e3245c862f"><img src="certificates/introduction-to-claude-tag.png" alt="Introduction to Claude Tag — Claude Academy badge" width="100%"></a><br>
+      <sub><b>Introduction to Claude Tag</b><br><a href="https://academy.claude.com/verify/f30164fb4f6d4c93d8daa7e3245c862f">Verify</a> · <a href="certificates/introduction-to-claude-tag.pdf">PDF</a></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/788b1a9c8d5e0effc585537573fd4017"><img src="certificates/ai-fluency-framework-foundations.png" alt="AI Fluency: Framework & Foundations — Claude Academy badge" width="100%"></a><br>
+      <sub><b>AI Fluency: Framework & Foundations</b><br><a href="https://academy.claude.com/verify/788b1a9c8d5e0effc585537573fd4017">Verify</a> · <a href="certificates/ai-fluency-framework-foundations.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/a0597b1c09ed7b7a3c4ac4bc73b848a0"><img src="certificates/ai-fluency-for-builders.png" alt="AI Fluency for Builders — Claude Academy badge" width="100%"></a><br>
+      <sub><b>AI Fluency for Builders</b><br><a href="https://academy.claude.com/verify/a0597b1c09ed7b7a3c4ac4bc73b848a0">Verify</a> · <a href="certificates/ai-fluency-for-builders.pdf">PDF</a></sub>
+    </td>
+    <td align="center" width="33%">
+      <a href="https://academy.claude.com/verify/4fb1b0b23060f7be24306ff2c1160928"><img src="certificates/ai-capabilities-and-limitations.png" alt="AI Capabilities and Limitations — Claude Academy badge" width="100%"></a><br>
+      <sub><b>AI Capabilities and Limitations</b><br><a href="https://academy.claude.com/verify/4fb1b0b23060f7be24306ff2c1160928">Verify</a> · <a href="certificates/ai-capabilities-and-limitations.pdf">PDF</a></sub>
+    </td>
+  </tr>
+</table>
 
 ## Featured work
 
