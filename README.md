@@ -95,11 +95,6 @@ Alongside these, several products are in active development in private repositor
 </p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz-Deen&theme=github-compact&hide_border=true&area=true&color=D97757&line=D97757&point=f5f5f5">
-  <img alt="Fayaz-Deen — contribution activity over the last 31 days" width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fayaz-Deen&theme=minimal&hide_border=true&area=true&color=D97757&line=D97757&point=D97757">
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Fayaz-Deen/Fayaz-Deen/output/github-snake-dark.svg">
   <img alt="Snake eating the Fayaz-Deen contribution graph" width="100%" src="https://raw.githubusercontent.com/Fayaz-Deen/Fayaz-Deen/output/github-snake.svg">
 </picture>
