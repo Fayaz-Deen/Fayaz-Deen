@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://fayaz-dev.pages.dev/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fayaz--dev.pages.dev-D2A566?style=flat-square&logo=cloudflarepages&logoColor=white"></a>
+  <a href="https://fayaz-deen.github.io/"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-fayaz--deen.github.io-D2A566?style=flat-square&logo=githubpages&logoColor=white"></a>
   <a href="https://github.com/Fayaz-Deen"><img alt="GitHub" src="https://img.shields.io/badge/Fayaz--Deen-181717?style=flat-square&logo=github&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/fayaz-deen-b1ba932b/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
   <img alt="Santiago, Chile" src="https://img.shields.io/badge/Santiago%2C_Chile-555555?style=flat-square">
@@ -39,7 +39,7 @@ What I bring:
 | Engineer | Hifi Technology | Nov 2018 – Sep 2020 |
 | Software Engineer | IVTL Infoview Technologies | Jul 2016 – Nov 2018 |
 
-Full details on my [portfolio](https://fayaz-dev.pages.dev/) and [LinkedIn](https://www.linkedin.com/in/fayaz-deen-b1ba932b/).
+Full details on my [portfolio](https://fayaz-deen.github.io/) and [LinkedIn](https://www.linkedin.com/in/fayaz-deen-b1ba932b/).
 
 ## Certifications
 
